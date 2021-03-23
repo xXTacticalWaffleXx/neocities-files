@@ -1,3 +1,4 @@
+/* IMPORTANT, MAKE REGULAR GIT COMMITS WHEN EDITING THIS FILE OR IT GLITCHES OUT*/
 body {
     background-image: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
     color: white;
@@ -41,6 +42,3 @@ body {
         font-family: comic-sans;
         src: url(comic.ttf)
     }
-    /* todo
-    add my rainmeter setup
-    */
