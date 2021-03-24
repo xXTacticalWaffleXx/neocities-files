@@ -1,46 +1,44 @@
-    body {
-        background-image: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
-        color: white;
-        font-size: 50px;
+/* IMPORTANT, MAKE REGULAR GIT COMMITS WHEN EDITING THIS FILE OR IT GLITCHES OUT*/
+body {
+    background-image: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
+    color: white;
+    font-size: 50px;
+    font-family: checbook;
+    cursor: url("mouse thing.png"), default;
+    background-attachment: fixed;
+}
+.main{
+    padding-left: 170px;
+    padding-bottom: 100px;
+}
+.sidenav{
+    font-family: comic-sans;
+    font-size: 35px;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    color: white; 
+    cursor: url("mouse thing.png"), auto;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding-left: 160px;
+    text-align: center;}
+    
+    @font-face {
         font-family: checbook;
-        cursor: url("mouse thing.png"), default;
-        background-attachment: fixed;
-    }
-    .main{
-        padding-left: 170px;
-        padding-bottom: 100px;
-    }
-   .sidenav{
+        src: url(checkbook.TTF);
+      }
+    @font-face{
         font-family: comic-sans;
-        font-size: 40px;
-        height: 100%; /* Full-height: remove this if you want "auto" height */
-        width: 160px; /* Set the width of the sidebar */
-        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-        z-index: 1; /* Stay on top */
-        top: 0; /* Stay at the top */
-        left: 0;
-        overflow-x: hidden; /* Disable horizontal scroll */
-        padding-top: 20px;
-        color: white; 
-        cursor: url("mouse thing.png"), auto;
+        src: url(comic.ttf)
     }
-    .footer {
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        color: white;
-        padding-left: 160px;
-        text-align: center;}
-        
-        @font-face {
-            font-family: checbook;
-            src: url(checkbook.TTF);
-          }
-        @font-face{
-            font-family: comic-sans;
-            src: url(comic.ttf)
-        }
-        /* todo
-        add my rainmeter setup
-        */
