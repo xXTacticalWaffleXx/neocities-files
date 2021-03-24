@@ -1,4 +1,4 @@
-/* IMPORTANT, MAKE REGULAR GIT COMMITS WHEN EDITING THIS FILE OR IT GLITCHES OUT*/
+/* IMPORTANT, MAKE REGULAR GIT COMMITS WHEN EDITING THIS FILE IF IT IS BEING UPLOADED TO THE NEOCITIES ACCOUNT OR IT GLITCHES OUT*/
 body {
     background-image: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
     color: white;
@@ -24,7 +24,14 @@ body {
     padding-top: 20px;
     color: white; 
     cursor: url("mouse thing.png"), auto;
+    /*hides the scrollbar*/
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
+/* Hide scrollbar for Chrome, Safari and Opera */
+.sidenav::-webkit-scrollbar {
+    display: none;
+  }
 .footer {
     position: fixed;
     left: 0;
