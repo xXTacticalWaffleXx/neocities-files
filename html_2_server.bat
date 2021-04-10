@@ -1,1 +1,0 @@
-neocities upload bio.html contact.html cool.html index.html lol.html not_found.html rainmeter.html
