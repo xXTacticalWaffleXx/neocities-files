@@ -10,7 +10,7 @@ body {
 .main{
     padding-left: 170px;
     padding-bottom: 100px;
-    padding-right: 170px;
+    /*padding-right: 170px;*/
 }
 .sidenav{
     font-family: comic-sans;
@@ -30,6 +30,8 @@ body {
     scrollbar-width: none;  /* Firefox */
 }
 
+/*this code isnt used at present but im keeping it in here because it could be useful in the future
+if using this class make sure you add padding to the left of the main class, as otherwise things overlap */
 .rightnav{
     font-family: comic-sans;
     font-size: 35px;
@@ -68,3 +70,7 @@ body {
         font-family: comic-sans;
         src: url(comic.ttf)
     }
+
+.linknav{
+    font-size: 35px;
+}
