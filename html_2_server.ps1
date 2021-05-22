@@ -23,3 +23,7 @@ neocities upload not_found.html
 cd rainmeter
 neocities upload -d /rainmeter index.html
 cd..
+
+cd snom
+neocities upload -d /snom index.html
+cd..
