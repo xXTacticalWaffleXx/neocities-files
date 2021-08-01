@@ -26,4 +26,4 @@ cd ..
 
 cd snom
 neocities upload -d /snom index.html
-cd..
+cd ..
