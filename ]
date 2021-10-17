@@ -1,0 +1,159 @@
+<!doctype html>
+
+<!-- this comment is to test a git hook in git bash-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href ="Untitled-2.css">
+  <script>console.log('HAI THERE :3')</script>
+  <link rel="shortcut icon" type="image/jpg" href="gifs/favicon.ico"/>
+</head>
+
+<body>
+  <title>HAI</title>
+<!--navigation links-->
+  <div class="sidenav">
+  <a href=""><img src="gifs/home.png"></a>
+  <a href="contact"><img src="gifs/contact.png"></a>
+  <a href="bio"><img src="gifs/bio.png"></a>
+  <a href="lol"><img src="gifs/quotes.png"></a><br>
+  <a href="rainmeter"><img src="gifs/rainmeterw.png"></a><br>
+  <a href="cool"><img src="gifs/c ool.png"></a>
+  <a href="snom"><img src="gifs/snom.png"> </a>
+  <hr>
+  <!--other peoples buttons-->
+  <a target="_blank" href="https://exo.pet"><img src="gifs\exopet.png"> </a><br>
+  <a target="_blank" href="https://samplade.neocities.org/"><img src="gifs/samp.png"></a><br>
+  <a target="_blank" href="http://park-city.club"><img src="gifs/parkcity.gif"></a><br>
+  <a target="_blank" href="https://roxelle.neocities.org"><img src="gifs/roxelle.png"></a>
+  <hr>
+   <!--contact buttons-->
+   <!--todo: make buttons for everything in /contact and move them here-->
+  <!--this has two purposes, prove i own this site on mastodon and link there-->
+  <a rel="me" target="_blank" href="https://cybre.space/@tacticalwaffle"><img src="gifs/mastodon.gif"></a>
+  <a href="mailto:tactical-waffle@outlook.com"><img src="gifs/email.gif"></a>
+  <a target="_blank" href="https://t.me/tactical-waffle"><img src="gifs/telegram.png"></a>
+  <a href="http://users2.smartgb.com/g/g.php?a=s&i=g26-38035-b3"> <img src="gifs/guestbook.gif"> </a><br>
+  <hr>
+  copyleft 2021 <br>
+  <hr>
+  <!--this horizontal line is supposed to add padding to the bottom as padding-bottom in css didnt work-->
+</div> 
+
+<div class ="main">
+    <p1>
+        <img src="gifs\cooltext379151641523960.gif" width="1016" height="80"><br>
+        
+        <marquee direction>MOTD: TEAM ALLAY</marquee>
+        
+        <img src="gifs/divider.gif"><img src="gifs/divider.gif"><img src="gifs/divider.gif"> <br>
+
+        HAI >-< this is just a place for me to put whatever random stuffs RAWR X3. ENJOY YOUR STAY :3 <br>
+        also yes it is meant to be a car crash of html and css lmao ^.^<br>
+        
+        <center><img src="gifs/welcome.gif"></center> <br>
+
+        <center>please sign my guestbook :3 <br>
+        <a href="http://users2.smartgb.com/g/g.php?a=s&i=g26-38035-b3"> <img src="gifs/guestbook.gif"> </a><br> <br> </center>
+    </p1>
+    <p2>
+      <!--this is just a reference to an image that i commented out incase i wanted to use it again in the future-->
+      <!--<img src="gifs/win95 error (Custom).gif"> <br><br>-->
+      
+      ♫ "sing it for the ones that'll hate your guts" ♫ <br> 
+      ♫ "and when i fit in i'll break back out" ♫ <br>
+    </p2>
+<br>
+    <p3>
+      our rave reviews:<br>
+      <br>
+      your site is just, wow.. <br>
+      its such a disaster<br>
+	AHHHH MY EYES <br>
+	ngl your site can induce motion sickness from the sheer amount of shit flying around the screen <br>
+    </p3>
+      
+    <p7>
+      <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=126404&s=1' border='0' alt='Free Website Hit Counter'></a><br / ></div>
+      <img src="gifs\wip.gif" width="398" hight="49"> <br>
+      <img src="gifs/neocities_large.gif"><br> <br>
+
+      <img src="https://i.imgur.com/13v61li.png"> <br> <br>
+
+
+      <!-- start link table-->
+      <right>
+        <table>
+          <colgroup>
+            <col style="padding: 0px; width: 32px;" span="1">
+          </colgroup>
+          <tbody>
+            <tr> 
+              /contact: my contact information <br> </tr>
+            
+            <tr> 
+              /bio: my bio <br> </tr>
+
+            <tr> 
+              /lol: funny quotes from the internet <br> </tr>
+
+            <tr> 
+              /rainmeter: my rainmeter setup <br> </tr>
+
+            <tr> 
+              /cool: cool things i've found online <br> </tr>
+          </tbody>
+        </table>
+        <br>
+      </right>
+      <!-- end link table-->
+    </p7>
+
+    <p3>
+      my button, use this to link to my page <br>
+      <a href="https://waffles-cosmic-void.neocities.org"><img src="gifs/my button.png"></a> <br> <br>
+    </p3>
+
+    <p4>
+      somewhere on my corner of the interwebz is an easter egg, HAPPY HUNTING >-< <br>
+      the code for this site can be found <a href="https://github.com/xXTacticalWaffleXx/neocities-files"> here </a> <br>
+    </p4>
+    
+    <p6>
+      <iframe width="300" height="250" style="border:none" src="https://googol.neocities.org/neolink/embed.html" name="neolink"></iframe>
+    </p6>
+    </div>
+   
+   <!-- footer full of gifs and blinkies-->
+    <div class="footer">
+      <marquee scrollamount="10" scrolldelay="0">
+      <img src="../gifs\note.gif">
+      <img src="../gifs\icqbutton.gif">
+      <img src="../gifs\get_java_green_button.gif">
+      <img src="../gifs\any_browser.gif">
+      <img src="../gifs\akageobutton2.gif">
+      <img src="../gifs\adv_rar2.gif">
+      <img src="../gifs\css.gif">
+      <a href="https://youtu.be/Y0p6h_n08UU"><img src="../gifs\getacomp.jpg"></a>
+      <img src="../gifs\getacro_19971210.gif">
+      <img src="../gifs\drmario.gif">
+      <img src="../gifs/autism.gif"> 
+      <img src="../gifs/night_owl.gif">
+      <img src="../gifs\fartpage.gif"> <br>
+      <img src="../gifs\aiPG3Ig.png">
+      <img src="../gifs\aimlink.gif">
+      <img src="../gifs\get_shockwave_player_20070913.gif">
+      <img src="../gifs\get_player_19971010.gif">
+      <img src="../gifs\happy.gif">
+      <img src="../gifs\stary boi.gif">
+      <img src="../gifs/kirbi.gif">
+      <img src="../gifs/site_best_viewed_with_monitor.gif">
+      <img src="../gifs/glue.jpg">
+      <img src="../gifs\ipod.gif">
+      <img src="../gifs/computer_never_sleeps.gif">
+      <img src="../gifs/sweet_dreams.gif">
+      <img src="../gifs/vamp_rights.webp">
+      </marquee>
+    </div>
+  </body>
+</html>
