@@ -1,0 +1,80 @@
+/* this file is meant to be used for any semi useful pages so its less eyestrainy*/
+body {
+    /*background-image: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
+    color: white;
+    font-size: 50px;
+    font-family: checbook;
+    cursor: url("mouse thing.png"), default;
+    background-attachment: fixed; */
+
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+.main{
+    padding-left: 170px;
+    padding-bottom: 100px;
+    /*padding-right: 170px;*/ 
+}
+.sidenav{
+    font-family: comic-sans;
+    font-size: 35px;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    color: white; 
+    cursor: url("mouse thing.png"), auto;
+    /*hides the scrollbar*/
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/*this code isnt used at present but im keeping it in here because it could be useful in the future
+if using this class make sure you add padding to the left of the main class, as otherwise things overlap */
+.rightnav{
+    font-family: comic-sans;
+    font-size: 35px;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    right: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    color: white; 
+    cursor: url("mouse thing.png"), auto;
+    /*hides the scrollbar*/
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.sidenav::-webkit-scrollbar {
+    display: none;
+  }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding-left: 160px;
+    text-align: center;}
+    
+    @font-face {
+        font-family: checbook;
+        src: url(checkbook.TTF);
+      }
+    @font-face{
+        font-family: comic-sans;
+        src: url(comic.ttf)
+    }
+
+.linknav{
+    font-size: 35px;
+}
