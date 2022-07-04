@@ -1,3 +1,9 @@
+#this script is free software licenced under the gplv3
+#author: luna aphelion
+#contact: luna-aphelion@outlook.com
+
+#please make sure you run this program in the root directory of your site otherwise you can cause havok
+
 cd bio
 neocities upload -d /bio index.html
 cd ..
