@@ -35,5 +35,5 @@ neocities upload -d /snom index.html
 cd ..
 
 cd tips
-neocites upload -d /tips index.html
+neocities upload -d /tips index.html
 cd ..
