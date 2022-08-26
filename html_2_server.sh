@@ -4,6 +4,9 @@
 
 #please make sure you run this program in the root directory of your site otherwise you can cause havok
 
+neocities upload index.html
+#no cd needed as this is in the root dir of the repo
+
 cd bio
 neocities upload -d /bio index.html
 cd ..
@@ -15,9 +18,6 @@ cd ..
 cd cool
 neocities upload -d /cool index.html
 cd ..
-
-neocities upload index.html
-#no cd needed as this is in the root dir of the repo
 
 cd lol
 neocities upload -d /lol index.html
