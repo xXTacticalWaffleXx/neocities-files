@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #this script is free software licenced under the gplv3
 #author: luna aphelion
 #contact: luna-aphelion@outlook.com
