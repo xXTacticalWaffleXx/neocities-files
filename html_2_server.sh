@@ -6,36 +6,20 @@
 
 #please make sure you run this program in the root directory of your site otherwise you can cause havok
 
-neocities upload index.html
-#no cd needed as this is in the root dir of the repo
+neocities upload -d /bio bio/index.html
 
-cd bio
-neocities upload -d /bio index.html
-cd ..
+neocities upload -d /contact contact/index.html
 
-cd contact
-neocities upload -d /contact index.html
-cd ..
+neocities upload -d /cool cool/index.html
 
-cd cool
-neocities upload -d /cool index.html
-cd ..
+neocities upload -d /lol lol/index.html
 
-cd lol
-neocities upload -d /lol index.html
-cd ..
+neocities upload -d /rainmeter rainmeter/index.html
 
-neocities upload not_found.html
-#no cd needed as this is in the root dir of the repo
+neocities upload -d /snom snom/index.html
 
-cd rainmeter
-neocities upload -d /rainmeter index.html
-cd ..
+neocities upload -d /tips tips/index.html
 
-cd snom
-neocities upload -d /snom index.html
-cd ..
+neocities upload index.html # this is in the root repo
 
-cd tips
-neocities upload -d /tips index.html
-cd ..
+neocities upload not_found.html # this is in the root repo
