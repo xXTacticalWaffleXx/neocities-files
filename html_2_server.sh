@@ -6,6 +6,12 @@
 
 #please make sure you run this program in the root directory of your site otherwise you can cause havok
 
+while getopts "p" o; do
+  case $o in
+    p) git push ;;
+  esac
+done
+
 neocities upload -d /bio bio/index.html
 
 neocities upload -d /contact contact/index.html
