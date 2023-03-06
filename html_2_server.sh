@@ -6,11 +6,17 @@
 
 #please make sure you run this program in the root directory of your site otherwise you can cause havok
 
-while getopts "p" o; do
+while getopts "cp" o; do
   case $o in
+    c) git commit -m "added quote to /lol" -a ;;
     p) git push ;;
+    *) echo "fam what the fuck is this, the fuck do you mean by $o" && exit=true ;;
   esac
 done
+
+if [[ $exit == true ]]; then
+    exit
+fi
 
 neocities upload -d /bio bio/index.html
 
